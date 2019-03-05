@@ -2,39 +2,8 @@
 
 ### Dataset
 Dataset is organised in the form given below:
-Coarse Data
-          Train
-               class1[folder that contains images]
-               class2
-               class3
-               .
-               .
-          Val
-              class1
-              class2
-              class3
-              .
-              .
-              
-Fine Data
-        Train
-             class1_subclass1[folder that contains images]
-             .
-             .
-             class2_subclass1
-             .
-             .
-             class3_subclass1
-             .
-             .
-         Val
-             class1_subclass1
-             .
-             .
-             class2_subclass1
-             .
-             .
-             class3_subclass1
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
              .
              .
  ### Steps:
