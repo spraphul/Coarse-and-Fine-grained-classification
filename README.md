@@ -5,7 +5,7 @@ Dataset is organised in the form given below:
 ![alt text](https://raw.githubusercontent.com/spraphul/Coarse-and-Fine-grained-classification/master/1.png)
 
 ### Model Used for Classification
-.
+![alt text](https://raw.githubusercontent.com/spraphul/Coarse-and-Fine-grained-classification/master/model.png)
              .
  ### Steps:
  For coarse training run the code 'COARSE.ipynb'
